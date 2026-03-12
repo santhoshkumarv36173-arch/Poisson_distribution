@@ -1,4 +1,7 @@
-# Fitting Poisson  distribution
+DATE: 04/02/2026
+
+EXP3: Fitting Poisson  distribution
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -79,7 +82,7 @@ else:
 
 
 
-# Results
+# Results :
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
